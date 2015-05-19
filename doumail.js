@@ -6,7 +6,7 @@
 // @version     10086
 // @grant       none
 // ==/UserScript==
-// 标题
+
 document.title = document.title.replace(/私信.*/g, '我的豆邮');
 
 var a1 = document.querySelector('#top-nav-doumail-link');
