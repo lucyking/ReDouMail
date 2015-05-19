@@ -4,7 +4,7 @@ Firefox js插件
 
 
 #安装
-- 1.首先安装伟大的js插件管理--油猴子  
+- 1.首先安装js脚本管理插件GreaseMonkey  
 点击安装GreaseMonkey：
 [https://greasyfork.org/scripts/9961-douyou/code/douyou.user.js](https://greasyfork.org/scripts/9961-douyou/code/douyou.user.js)   
    
