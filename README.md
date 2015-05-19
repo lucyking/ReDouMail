@@ -1,7 +1,7 @@
 #About  
 Firefox js插件
 将豆瓣网页上【私信】字段改回正确的【豆邮】并显示      
-参考：@iplus的[Safari & Chrome 浏览器拓展](https://github.com/iplus26/doumail-back)
+参考：iplus26 的[Safari & Chrome 浏览器拓展](https://github.com/iplus26/doumail-back)
 
 #安装
 - 1.首先安装js脚本管理插件GreaseMonkey  
